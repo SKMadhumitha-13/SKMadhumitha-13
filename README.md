@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 🌐Connect with me:
 [!Linkedin](https://www.linkedin.com/in/madhu-mitha-4958a1311/)
 
-Languages and Tools:
+
 
