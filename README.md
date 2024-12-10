@@ -2,9 +2,6 @@
 🚀Aspiring Full-Stack Developer | 🌐Technology Enthusiast
 🎯Dedicated to creating innovative solutions and tackling challenges through code.
 
-
-**SKMadhumitha-13/SKMadhumitha-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Basic Python programming,WebTechnology,Django Frameworks
@@ -14,3 +11,6 @@ Here are some ideas to get you started:
 
 🌐Connect with me:
 [!Linkedin](https://www.linkedin.com/in/madhu-mitha-4958a1311/)
+
+Languages and Tools:
+
