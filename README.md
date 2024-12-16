@@ -1,8 +1,5 @@
-## Hi, I'm Madhumitha!👋
-🚀Aspiring Full-Stack Developer | 🌐Technology Enthusiast
-🎯Dedicated to creating innovative solutions and tackling challenges through code.
+![Header](https://leviarista.github.io/github-profile-header-generator/./your-header-image-name.png)
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Basic Python programming,WebTechnology,Django Frameworks
