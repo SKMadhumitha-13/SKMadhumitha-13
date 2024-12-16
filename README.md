@@ -1,6 +1,5 @@
-**Hi! I'm Madhumitha**
 <img align="center" width="50%" title="a title" alt="Alt text" src="https://i.pinimg.com/originals/20/36/4f/20364f89675f128c63fb4e86c85e372b.gif">
-
+<h1 align="center">**Hi👋! I'm Madhumitha**</h1>
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Basic **Django Frameworks**
