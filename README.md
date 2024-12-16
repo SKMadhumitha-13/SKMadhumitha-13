@@ -1,5 +1,4 @@
-<div align="center"> <img src="file:///C:/Users/LENOVO/Downloads/madhu_github.html"></div>
-
+<img align="center" width="100%" title="a title" alt="Alt text" src="https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 Here are some ideas to get you started:
 
