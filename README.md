@@ -1,4 +1,4 @@
-![This is a image](https://leviarista.github.io/github-profile-header-generator/)
+<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"></div>
 
 
 Here are some ideas to get you started:
