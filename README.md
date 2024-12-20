@@ -1,6 +1,6 @@
-<img align="center" width="70%" title="a title" alt="Alt text" src="https://i.pinimg.com/originals/20/36/4f/20364f89675f128c63fb4e86c85e372b.gif">
+<img align="center" width="70%" title="a title" alt="Alt text" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <h1 align="center">**Hi👋! I'm Madhumitha**</h1>
----
+
 
 Here are some ideas to get you started:
 
