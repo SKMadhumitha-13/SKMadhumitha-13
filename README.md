@@ -1,4 +1,4 @@
-<img align="center" width="70%" title="a title" alt="Alt text" src="https://in.pinterest.com/pin/2251868556877720/">
+<img align="center" width="70%" title="a title" alt="Alt text" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <h1 align="center">**Hi👋! I'm Madhumitha**</h1>
 
 
